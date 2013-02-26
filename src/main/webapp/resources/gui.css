@@ -1,0 +1,33 @@
+﻿body { 
+	margin: auto;
+	padding: 10px;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	width: 500px;
+}
+
+
+ul {
+	padding: 0;
+	margin: 10px 0px;
+	list-style: none;
+}
+
+li {
+	padding: 2px 0px;
+}
+
+#container {
+	width: 500px;
+	clear: both;
+}
+
+input {
+	width: 100%;
+	margin: 0px 0px 7px 0px;
+	clear: both;
+}
+
+.user {
+	font-weight: bold;
+}
