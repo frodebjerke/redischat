@@ -7,3 +7,10 @@ redischat
 4. mvn jetty:run
 5. Open http://localhost:8080/
 6. Relax and enjoy
+
+For node version
+---
+
+1. ```$cd node/```
+2. ```$npm install```
+3. ```$node chat.js```
